@@ -2,7 +2,7 @@
 <template>
   <div class="logo">
     <router-link to="/">
-      <img src="@/assets/logo.png" alt="Raízes Digitais Logo" />
+      <img src="@/assets/logo.png" alt="Trabalho Web Logo" />
     </router-link>
   </div>
 </template>
